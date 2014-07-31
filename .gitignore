@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+main_papers
+ws_papers
+.ipynb_checkpoints
